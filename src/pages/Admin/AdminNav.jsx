@@ -53,9 +53,6 @@ const AdminNav = () => {
                     <NavLink to="/Admin/contactqueries" className={linkstyle}>
                         <BsBookmarkCheckFill className="text-lg" /> All Queries
                     </NavLink>
-                    <NavLink to="/Admin/contactqueries" className={linkstyle}>
-                        <BsBookmarkCheckFill className="text-lg" /> All Queries
-                    </NavLink>
 
                     <NavLink to="/Admin/AdminProfile" className={linkstyle}>
                         <BsPersonCircle className="text-lg" /> Profile
